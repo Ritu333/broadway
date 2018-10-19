@@ -1,0 +1,68 @@
+.broadway-design
+{
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  position: relative;
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+.menus
+{
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+  position: relative;
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+.our-process
+{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.icons
+{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.explanation
+{
+  font-family: helvetica;
+  font-size: 14px;
+  text-align: center;
+}
+
+.newyork
+{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+.footer
+{
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.icon-position
+{
+  position: relative;
+  text-align: center;
+}
