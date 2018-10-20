@@ -1,23 +1,31 @@
+body
+{
+  text-align: center;
+}
+
 .broadway-design
 {
+  background-image: url(../images/the-flatiron-building.png);
   font-family: helvetica;
-  font-size: 70px;
   font-weight: bold;
   color: white;
   text-align: center;
-  position: relative;
-  background-image: url(../images/the-flatiron-building.png);
+}
+
+.broadway-design h1
+{
+  font-size: 70px;
 }
 
 .menus
 {
+
   font-family: helvetica;
   font-size: 18px;
   color: white;
   text-align: center;
   font-weight: normal;
-  position: relative;
-  background-image: url(../images/the-flatiron-building.png);
+
 }
 
 .our-process
